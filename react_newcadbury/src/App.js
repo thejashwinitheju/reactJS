@@ -1,9 +1,9 @@
-import Cls from './Cls';
+import Ftoc from './Ftoc'
 
 let App = () => {
 return <div>
   <h1></h1>
-  <Cls/>
+  <Ftoc/>
 </div>
 
 }
