@@ -1,9 +1,9 @@
-import Comp from './Comp';
+import Cls from './Cls';
 
 let App = () => {
 return <div>
-  <h1>Funtion to funtion</h1>
-  <Comp/>
+  <h1></h1>
+  <Cls/>
 </div>
 
 }
