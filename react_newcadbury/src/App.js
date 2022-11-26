@@ -1,17 +1,10 @@
+import Comp from './Comp';
 
+let App = () => {
+return <div>
+  <h1>Funtion to funtion</h1>
+  <Comp/>
+</div>
 
-
-
-
-
-import React from "react";
-import Ftoff from "./Ftoff";
-
-function App(){
-  return(
-    <div>
-      <Ftoff/>
-    </div>
-  )
 }
 export default App
