@@ -1,0 +1,28 @@
+let employees=[{"id":1,"first_name":"Cathrin","last_name":"Gravett","email":"cgravett0@360.cn","gender":"Female"},
+{"id":2,"first_name":"Hercule","last_name":"Woolfall","email":"hwoolfall1@surveymonkey.com","gender":"Bigender"},
+{"id":3,"first_name":"Sher","last_name":"Weldrake","email":"sweldrake2@state.tx.us","gender":"Agender"},
+{"id":4,"first_name":"Harriet","last_name":"Coleman","email":"hcoleman3@com.com","gender":"Female"},
+{"id":5,"first_name":"Kiley","last_name":"Donnett","email":"kdonnett4@apple.com","gender":"Female"},
+{"id":6,"first_name":"Dom","last_name":"Renak","email":"drenak5@taobao.com","gender":"Male"},
+{"id":7,"first_name":"Chalmers","last_name":"Guiel","email":"cguiel6@ocn.ne.jp","gender":"Male"},
+{"id":8,"first_name":"Shaylyn","last_name":"Marlor","email":"smarlor7@dell.com","gender":"Female"},
+{"id":9,"first_name":"Lillian","last_name":"Eliot","email":"leliot8@bloglovin.com","gender":"Female"},
+{"id":10,"first_name":"Evelina","last_name":"Moniker","email":"emoniker9@liveinternet.ru","gender":"Female"},
+{"id":11,"first_name":"Stefania","last_name":"Brydone","email":"sbrydonea@fda.gov","gender":"Female"},
+{"id":12,"first_name":"Marc","last_name":"Dudgeon","email":"mdudgeonb@statcounter.com","gender":"Male"},
+{"id":13,"first_name":"Tristam","last_name":"Willerson","email":"twillersonc@jalbum.net","gender":"Male"},
+{"id":14,"first_name":"Julietta","last_name":"Hunter","email":"jhunterd@shop-pro.jp","gender":"Non-binary"},
+{"id":15,"first_name":"Gretel","last_name":"Wilbore","email":"gwilboree@amazon.de","gender":"Female"},
+{"id":16,"first_name":"Barbi","last_name":"Serginson","email":"bserginsonf@gmpg.org","gender":"Female"},
+{"id":17,"first_name":"Moses","last_name":"Coonan","email":"mcoonang@jimdo.com","gender":"Male"},
+{"id":18,"first_name":"Trudey","last_name":"Rother","email":"trotherh@time.com","gender":"Polygender"},
+{"id":19,"first_name":"Reggy","last_name":"Boater","email":"rboateri@free.fr","gender":"Male"},
+{"id":20,"first_name":"Gare","last_name":"Dumphrey","email":"gdumphreyj@salon.com","gender":"Male"},
+{"id":21,"first_name":"Ceciley","last_name":"Tibbles","email":"ctibblesk@devhub.com","gender":"Female"},
+{"id":22,"first_name":"Alley","last_name":"Arnli","email":"aarnlil@fastcompany.com","gender":"Male"},
+{"id":23,"first_name":"Nance","last_name":"Pynner","email":"npynnerm@sohu.com","gender":"Female"},
+{"id":24,"first_name":"Gracie","last_name":"Gadaud","email":"ggadaudn@businesswire.com","gender":"Female"},
+{"id":25,"first_name":"Pryce","last_name":"Youngman","email":"pyoungmano@nydailynews.com","gender":"Male"}]
+
+
+export default employees
