@@ -14,13 +14,15 @@ class Form extends Component{
    }
    submitHandler(event){
        event.preventDefault();
+       console.log(this.user)
+       
        
    }
     render(){
         return <div>
             <h1>Form Validation</h1><br/><br/>
             <pre>{JSON.stringify(this.state)}</pre>
-            <form>
+            <form onSubmit={this.submitHandler}>
                 <label>User Name:</label>
             <input type="text" onChange={this.updateHandler} name = "User_name"/><br/>
             <label>Email:</label>

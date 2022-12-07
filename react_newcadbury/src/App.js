@@ -1,9 +1,9 @@
-import Form from './Form'
+import Clock from './Clock'
 
 let App = () => {
 return <div>
   <h1></h1>
-  <Form/>
+  <Clock/>
 </div>
 
 }
