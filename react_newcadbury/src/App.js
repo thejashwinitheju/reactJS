@@ -1,9 +1,9 @@
-import Clock from './Clock'
+import Condition from './Condition'
 
 let App = () => {
 return <div>
   <h1></h1>
-  <Clock/>
+  <Condition/>
 </div>
 
 }
